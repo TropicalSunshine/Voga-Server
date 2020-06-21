@@ -1,4 +1,4 @@
-# sdhacks-nodeProject was created during SD Hacks 2019
+sdhacks-nodeProject was created during SD Hacks 2019
 
 Devpost link [here](https://devpost.com/software/voga)
 
